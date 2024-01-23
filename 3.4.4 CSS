@@ -1,0 +1,4 @@
+.vocab{
+    font-weight:bold;
+    color:green;
+}
