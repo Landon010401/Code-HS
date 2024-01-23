@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paleontologists</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        
+    </head>
+    <body>
+        <div class="header">
+        <h1>Paleontologists</h1>
+        <h3>Description</h3>
+        <p>
+            Study of ancient animals and plants through studying fossils
+        </p>
+        </div>
+        <div class="content">
+        <h3>Average Salary</h3>
+        <p> $89,780</p>
+        <h3>Employers</h3>
+        <ul>
+            <li>Oil and Gas Extraction Companies</li>
+            <li>Federal Government</li>
+            <li>State Government</li>
+            <li>fdafad</li>
+            <li>fdafdas</li>
+        </ul>
+        <ul>
+            <span class="job-title"></span>
+            <span class="job-title"></span>
+            <span class="job-title"></span>
+        </ul>
+        </div>
+        <div class="footer">
+        <h3>Related Careers</h3>
+        <h3>fdasfdas</h3>
+        
+        <iframe src="https://www.onetonline.org/link/summary/19-3091.02"></iframe>
+        <a href="index.html">Home</a>
+        <br>
+        <a href="milestones.html">Milestones</a>
+        </div>
+    </body>
+</html>
