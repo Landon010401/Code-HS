@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Endangered Species</title>
+		<style>
+		    body{
+		        background-color: #FFD1AA;
+		        font-size: 18px;
+		    }
+		    h1{
+		        color:#003333;
+		    }
+		    h2{
+		        color:#162955;
+		    }
+		    .endangered{
+		        color:red;
+		    }
+		    .threatened{
+		        color:OrangeRed;
+		    }
+		    .scientific-name{
+		        font-style:italic;
+		    }
+		</style>
+	</head>
+
+	<body>
+		<h1>Endangered Animals</h1>
+		<h2>Baluchistan Bear</h2>
+		<ul class="endangered">
+		    <li class="scientific-name">Scientific Name: Urus thibetanus gedrosianus</li>
+		    <li>Lives in: Iran and Pakistan</li>
+		    <li>Endangered</li>
+		</ul>
+		<h2>Owl</h2>
+		<ul class="threatened">
+		    <li class="scientific-name">scientific name: owl</li>
+		    <li>lives everywhere</li>
+		    <li>Threatened</li>
+		</ul>
+		<h2>otter</h2>
+		<ul class="endangered">
+		    <li class="scientific-name">scientific name: otter</li>
+		    <li>lives in water</li>
+		    <li>Endangered</li>
+		</ul>
+		<h2>dolphin</h2>
+		<ul class="threatened">
+		    <li class="scientific-name">scientific name: dolphin</li>
+		    <li>lives in the ocean</li>
+		    <li>Threatened</li>
+		</ul>
+		
+	
+	</body>
+</html>
