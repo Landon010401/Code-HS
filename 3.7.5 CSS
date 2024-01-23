@@ -1,0 +1,42 @@
+ul{
+    list-style:square;
+}
+body{
+    font-size:20px;
+}
+
+li:hover::after{
+    background-color:PaleGoldenRod;
+    content:"  Pick me! Pick me!";
+}
+
+li:active::after{
+    background-color: #46c70b;
+    content: " You have made a good decision";
+}
+#seong:hover::after{
+    background-color:PaleGoldenRod;
+content:" Pick me! Pick me!";
+}
+#seong:active::after{
+    background-color:#46c70b;
+    content:" You have made a good decision";
+}
+#andile:hover::after{
+    background-color:SteelBlue;
+    color:white;
+    content:" I am the best candidate";
+}
+#andile:active::after{
+    background-color:lime;
+    color:white;
+    content:" You chose right" ;
+}
+#shakti:hover::after{
+    border:3px dotted orange;
+    content:" I will win anyways";
+}
+#shakti:active::after{
+    border:3px solid red;
+    content:" I told you so";
+}
