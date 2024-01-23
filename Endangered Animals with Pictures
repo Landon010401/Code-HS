@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Endangered Species</title>
+		<style>
+		    body{
+		        background-color: #FFD1AA;
+		        font-size: 18px;
+		    }
+		    h1{
+		        color:#003333;
+		    }
+		    h2{
+		        color:#162955;
+		    }
+		    .endangered{
+		        color:red;
+		    }
+		    .threatened{
+		        color:OrangeRed;
+		    }
+		    .scientific-name{
+		        font-style:italic;
+		    }
+		    .bear{
+		        border-style:solid;
+		    }
+		    .owl{
+		        border-style:dotted;
+		    }
+		    .otter{
+		        border-style:dashed;
+		    }
+		    .dolphin{
+		        border-style:double;
+		    }
+		</style>
+	</head>
+
+	<body>
+		<h1>Endangered Animals</h1>
+		<h2>Baluchistan Bear</h2>
+		<ul class="endangered">
+		    <img class="bear" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F86%2F34386-050-25B31B35%2FGreat-horned-owl.jpg&tbnid=d27b0leE0IYqvM&vet=12ahUKEwiK3Keq0OmDAxXFjYkEHS_bDdYQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fowl&docid=H6eyoRYzWYrjvM&w=512&h=800&q=owl&ved=2ahUKEwiK3Keq0OmDAxXFjYkEHS_bDdYQMygAegQIARB0">
+		    <li class="scientific-name">Scientific Name: Urus thibetanus gedrosianus</li>
+		    <li>Lives in: Iran and Pakistan</li>
+		    <li>Endangered</li>
+		</ul>
+		<h2>Owl</h2>
+		<img class="owl" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F86%2F34386-050-25B31B35%2FGreat-horned-owl.jpg&tbnid=d27b0leE0IYqvM&vet=12ahUKEwiK3Keq0OmDAxXFjYkEHS_bDdYQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fowl&docid=H6eyoRYzWYrjvM&w=512&h=800&q=owl&ved=2ahUKEwiK3Keq0OmDAxXFjYkEHS_bDdYQMygAegQIARB0">
+		
+		<ul class="threatened">
+		    <li class="scientific-name">scientific name: owl</li>
+		    <li>lives everywhere</li>
+		    <li>Threatened</li>
+		</ul>
+		<h2>otter</h2>
+		<img class="otter" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F86%2F34386-050-25B31B35%2FGreat-horned-owl.jpg&tbnid=d27b0leE0IYqvM&vet=12ahUKEwiK3Keq0OmDAxXFjYkEHS_bDdYQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fowl&docid=H6eyoRYzWYrjvM&w=512&h=800&q=owl&ved=2ahUKEwiK3Keq0OmDAxXFjYkEHS_bDdYQMygAegQIARB0">
+		<ul class="endangered">
+		    <li class="scientific-name">scientific name: otter</li>
+		    <li>lives in water</li>
+		    <li>Endangered</li>
+		</ul>
+		<h2>dolphin</h2>
+		<img class="dolphin" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F86%2F34386-050-25B31B35%2FGreat-horned-owl.jpg&tbnid=d27b0leE0IYqvM&vet=12ahUKEwiK3Keq0OmDAxXFjYkEHS_bDdYQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fowl&docid=H6eyoRYzWYrjvM&w=512&h=800&q=owl&ved=2ahUKEwiK3Keq0OmDAxXFjYkEHS_bDdYQMygAegQIARB0">
+		<ul class="threatened">
+		    <li class="scientific-name">scientific name: dolphin</li>
+		    <li>lives in the ocean</li>
+		    <li>Threatened</li>
+		</ul>
+		
+	
+	</body>
+</html>
