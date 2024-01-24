@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Your Page Title</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<img class="animate" src="https://codehs.com/uploads/f437e4f28eecf63f7d36315b2a15cebb">
+	</body>
+</html>
