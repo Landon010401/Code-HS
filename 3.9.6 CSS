@@ -1,18 +1,14 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Bright! Bright! Electric Company</title>
-		<link rel="stylesheet" type="text/css" href="style.css">
-	</head>
-
-	<body>
-		<!-- Create a div with the class "header" -->
-		<div class="header">
-		    <h1>jkjfd;klaads</h1>
-		</div>
-		<!-- Create a div with the class "content" -->
-		<div class="content">
-		    <p>jkfdsaj;kfa</p>
-		</div>
-	</body>
-</html>
+body{
+    background-image:url("");
+    background-repeat:no-repeat;
+}
+.header{
+    color:lemonchiffon;
+    background-color:black;
+    width:50%;
+}
+.content{
+    background-color:honeydew;
+    font-size:24px;
+    width:70%;
+}
